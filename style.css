@@ -1,0 +1,14 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.button{
+    text-decoration: none;
+}
