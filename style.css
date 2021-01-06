@@ -21,6 +21,7 @@ h2{
 }
 .margin{
     margin-bottom: 60px;
+  
 }
 .button{
     text-decoration: none;
@@ -42,17 +43,85 @@ p{
     letter-spacing: 1px;
 }
 .half-width{
-    width: 30%;
+    width: 40%;
     float: left;
     margin-left: 9%;
-    margin-top: 9%;
+    margin-top: 3%;
 }
 
 
 .half-width img{
     width: 100%;
 
+    
+
 }
 #project{
     font-size: 40px;
+    
+
 }
+
+.abc{
+    width: 30%;
+    text-align: center;
+    padding-top: 90%;
+    padding-left: 35%;
+
+    
+}
+
+.project-width{
+
+    width: 20%;
+    float: left;
+    margin-left: 9%;
+    box-shadow: 23px 20px 50px rgb(202, 202, 202) ;
+    margin-bottom: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    height: 300px;
+
+}
+
+.project-width img{
+    width: 100%;
+}
+
+
+#work1{
+    float: left;
+    margin-left: 25%;
+    margin-top: 29%;
+    
+}
+
+#work2{
+    float: right;
+    margin-right: 25%;
+    margin-top: 33%;
+}
+
+.bg-img{
+    height: 1000px;;
+    background-image: url("image/3.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    margin-top: 420px;
+    background-position: center;
+    margin-bottom: 0px;
+}
+
+.hire{
+    width: 100%;
+    float: left;
+    margin-left: 15%;
+    margin-bottom: 100px;
+
+}
+
+.abcd{
+    width: 30%;
+    text-align: center;
+    padding-left: 35%;
+
