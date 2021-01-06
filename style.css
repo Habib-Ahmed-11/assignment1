@@ -7,18 +7,14 @@ h1{
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
     font-weight: 500;
-    line-height: 28px;
+    line-height: 15px;
 }
 h2{
     font-family: 'Bebas Neue', cursive;
     font-size: 48px;
     font-weight: 500;
-    color: #3E3E3E;
 }
-.highlight{
-    color: #F46060;
 
-}
 .margin{
     margin-bottom: 60px;
   
@@ -38,6 +34,9 @@ h2{
 .pink-color{
     color: #FF8367;
 }
+.white-color{
+    color: white;
+}
 p{
     color: #3E3E3E;
     letter-spacing: 1px;
@@ -52,13 +51,9 @@ p{
 
 .half-width img{
     width: 100%;
-
-    
-
 }
 #project{
     font-size: 40px;
-    
 
 }
 
@@ -67,7 +62,6 @@ p{
     text-align: center;
     padding-top: 90%;
     padding-left: 35%;
-
     
 }
 
@@ -91,15 +85,15 @@ p{
 
 #work1{
     float: left;
-    margin-left: 25%;
-    margin-top: 29%;
+    margin-left: 30%;
+    margin-top: 20%;
     
 }
 
 #work2{
     float: right;
-    margin-right: 25%;
-    margin-top: 33%;
+    margin-right: 30%;
+    margin-top: 24.5%;
 }
 
 .bg-img{
@@ -107,7 +101,7 @@ p{
     background-image: url("image/3.png");
     background-repeat: no-repeat;
     background-size: 60%;
-    margin-top: 420px;
+    margin-top: 300px;
     background-position: center;
     margin-bottom: 0px;
 }
@@ -117,13 +111,22 @@ p{
     float: left;
     margin-left: 15%;
     margin-bottom: 100px;
-
 }
 
 .abcd{
-    width: 30%;
+    width: 35%;
     text-align: center;
-    padding-left: 35%;
+    padding-left: 33%;
+    margin-top: 1px;
+}
+
+.connect{
+
+    width: 35%;
+    text-align: center;
+    padding-left: 33%;
+    margin-top: 1px;
+    padding-bottom: 100px;
 }
 
 
